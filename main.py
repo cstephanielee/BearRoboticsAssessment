@@ -5,6 +5,7 @@ def pinVerification(pin):
         return True
     else:
         return False
+    #Pin verification would be handled better once connected to a database
 
 def accountSelection():
     while True:
